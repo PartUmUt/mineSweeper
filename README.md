@@ -1,4 +1,4 @@
-# mineSweeper
+# MineSweeper in WinForms
 
 ![MineSweeper in WinForms](mineSweeper.png)
 
